@@ -1,5 +1,5 @@
 from django.contrib import admin
 
-from .models import Question
+from apps.polls.models import Question
 
 admin.site.register(Question)
