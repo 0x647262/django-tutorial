@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "djangotutorial"
+name = "django_tutorial"
 version = "1.0.0"
 description = "A Django tutorial"
-authors = ["Your Name <you@example.com>"]
+authors = ["Dan Beste <drb@wishalloy.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
